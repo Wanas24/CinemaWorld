@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+.detailsImg{
+  height: 500px;
+}
+.fa-spotify:hover{
+  color: #1ed760 !important;
+  margin: 3px;
+}
+.fa-instagram:hover{
+  color: #cd486b !important;
+  margin: 3px;
+
+}
+.fa-youtube:hover{
+  color: red !important;
+  margin: 3px;
+
+}
+.logout:hover{
+  cursor: pointer;
+  color: red;
+  margin: 2px;
+}
