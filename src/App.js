@@ -47,7 +47,7 @@ function App() {
       {path:'people', element:<Protectedroute><People/></Protectedroute>},
       {path:'movies', element:<Protectedroute><Movies/></Protectedroute>},
       // {path:'about', element:<Protectedroute><About/></Protectedroute>},
-      {path:'*', element:<h1>error 44 notfound</h1>},
+      {path:'*', element:<Login/>},
       
     ]}
    ])
